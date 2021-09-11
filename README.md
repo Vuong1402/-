@@ -13,11 +13,16 @@ int main()
 	int sum = a+b;
 	printf("\n %d + %d = %d", a, b, sum);
 
-	
 	int sub = a-b;
 	printf("\n %d - %d = %d", a, b, sub);
 	
 	float e;
 	printf("\n (%d+ %d)/2 = %e", sum, sub);
+	
+	int mul = a*b;
+	printf("\n %d * %d = %d", a, b, mul);
+
+	int div = a/b;
+	printf("\n %d / %d = %d", a, b, div);
 	
 }
