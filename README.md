@@ -24,5 +24,6 @@ int main()
 
 	int div = a/b;
 	printf("\n %d / %d = %d", a, b, div);
+![Screenshot (109)](https://user-images.githubusercontent.com/90500831/132959181-a49a08ee-a164-4a5c-af4f-8ff7507b97b2.png)
 	
 }
